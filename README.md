@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Enumerable in Ruby <a name="about-project"></a>
+# 📖 OOP Student Library <a name="about-project"></a>
 
 > this Ruby-OOP-School-Library could be used as a tool for a school or university librarian to record what books are available and who has borrowed them recently
 
@@ -33,16 +33,9 @@
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Ruby</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
@@ -64,19 +57,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/187jjay187/oop_school_library.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -87,7 +68,7 @@ To get a local copy up and running, follow these steps.
 git clone https://github.com/187jjay187/oop_school_library.git <Your-Build-Directory>
 
 ````
-cd Decode_Morse-code.git
+cd oop_school_library.git
 
 Run morse_code.rb on your terminal By Using IRB
 
@@ -181,6 +162,16 @@ Example:
 - LinkedIn: LinkedIn(https://linkedin.com/in/jerome-osman-137605a4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[ Add more methods and attributes to the Person and Student classes.]**
+- [ ] **[Create additional classes that inherit from Person, such as Teacher and Parent.]**
+- [ ] **[Implement functionality to store and retrieve Person and Student objects from a database.]**
 
 <!-- CONTRIBUTING -->
 
