@@ -24,7 +24,7 @@
 
 # 📖 Enumerable in Ruby <a name="about-project"></a>
 
-> this Ruby-OOP-School-Library could be used as a tool for a school or university librarian to record what books are available and who has borrowed them
+> this Ruby-OOP-School-Library could be used as a tool for a school or university librarian to record what books are available and who has borrowed them recently
 
 ## 🛠 Built With <a name="built-with"></a>
 
