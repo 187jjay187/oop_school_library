@@ -39,13 +39,6 @@
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -70,7 +63,7 @@ git clone https://github.com/187jjay187/oop_school_library.git <Your-Build-Direc
 ````
 cd oop_school_library.git
 
-Run morse_code.rb on your terminal By Using IRB
+Run oop on your terminal By Using IRB
 
 ### Prerequisites
 
