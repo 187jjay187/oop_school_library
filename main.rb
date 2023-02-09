@@ -1,13 +1,9 @@
-class Classroom
-  attr_accessor :label, :students
+require_relative 'app'
 
-  def initialize(label)
-    @label = label
-    @students = []
-  end
-
-  def add_student(student)
-    students.push(student)
-    student.classroom = self
-  end
+def main
+  puts ''
+  app = App.new
+  app.run
 end
+
+main
