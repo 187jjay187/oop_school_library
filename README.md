@@ -30,8 +30,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Ruby</summary>
   <ul>
@@ -54,13 +52,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 git clone https://github.com/187jjay187/oop_school_library.git <Your-Build-Directory>
 
-````
 cd oop_school_library.git
 
 Run oop on your terminal By Using IRB
@@ -69,52 +64,32 @@ Run oop on your terminal By Using IRB
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
+sh
  gem install ruby
-````
 
--->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
+sh
   cd my-folder
   git clone https://github.com/187jjay187/oop_school_library.git
-```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
+sh
+  cd OOP-School-Library
   gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+sh
+  ruby main.rb
 
 ### Run tests
 
@@ -122,13 +97,8 @@ run on your terminal test.rb
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
+sh
   bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
@@ -160,7 +130,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[ Add more methods and attributes to the Person and Student classes.]**
 - [ ] **[Create additional classes that inherit from Person, such as Teacher and Parent.]**
@@ -180,9 +149,9 @@ Feel free to check the [issues page](https://github.com/187jjay187/oop_school_li
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+If you like this project please support it by giving it a star
 
-If you like this project...
+## STAR ME: https://github.com/187jjay187/oop_school_library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,9 +159,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse for providing this lesson in the curriculum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
