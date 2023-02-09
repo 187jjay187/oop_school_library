@@ -30,8 +30,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Ruby</summary>
   <ul>
@@ -53,8 +51,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -134,7 +130,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[ Add more methods and attributes to the Person and Student classes.]**
 - [ ] **[Create additional classes that inherit from Person, such as Teacher and Parent.]**
@@ -156,7 +151,9 @@ Feel free to check the [issues page](https://github.com/187jjay187/oop_school_li
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please support it by giving it a star
+
+## STAR ME: https://github.com/187jjay187/oop_school_library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +163,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for providing this lesson in the curriculum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
