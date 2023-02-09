@@ -149,8 +149,6 @@ Feel free to check the [issues page](https://github.com/187jjay187/oop_school_li
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please support it by giving it a star
 
 ## STAR ME: https://github.com/187jjay187/oop_school_library
@@ -160,8 +158,6 @@ If you like this project please support it by giving it a star
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for providing this lesson in the curriculum
 
