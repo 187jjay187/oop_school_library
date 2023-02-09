@@ -18,4 +18,8 @@ class Person
     of_age? || @parent_permission
   end
   public :can_use_services?
+
+  def correct_name
+    @name
+  end
 end
