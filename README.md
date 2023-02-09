@@ -60,7 +60,6 @@ To get a local copy up and running, follow these steps.
 
 git clone https://github.com/187jjay187/oop_school_library.git <Your-Build-Directory>
 
-````
 cd oop_school_library.git
 
 Run oop on your terminal By Using IRB
@@ -69,52 +68,32 @@ Run oop on your terminal By Using IRB
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
+sh
  gem install ruby
-````
 
--->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
+sh
   cd my-folder
   git clone https://github.com/187jjay187/oop_school_library.git
-```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
+sh
+  cd OOP-School-Library
   gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+sh
+  ruby main.rb
 
 ### Run tests
 
@@ -122,13 +101,8 @@ run on your terminal test.rb
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
+sh
   bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
